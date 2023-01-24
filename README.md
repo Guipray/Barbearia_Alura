@@ -3,5 +3,5 @@
 
 Foi montado um site para uma barbearia com conteúdos como: <br>
 Home - A página principal do projeto. <br>
-Contato - Página para entrar em contato tanto para marcar horário, como dar sugestões, reclamações e etc. <br>
-Produtos - Uma seleção de três itens disponíveis para serem solicitados, agilizando o processo do tipo de corte à escolhido.
+Produtos - Uma seleção de três itens disponíveis para serem solicitados, agilizando o processo do tipo de corte à escolhido. <br>
+Contato - Página para entrar em contato tanto para marcar horário, dar sugestões, reclamações e etc.
